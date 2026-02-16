@@ -35,6 +35,6 @@ A real-time chat application built with **MERN stack** and **WebSocket** technol
 - WebSocket
 - JSON Web Tokens (JWT)
 
-Author
--Adarsh Pal
--github.com/73Adarsh | linkedin.com/in/73adarsh
+
+Author - Shubham Kumar - github.com/Shubham12222023
+
